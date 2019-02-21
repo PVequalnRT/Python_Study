@@ -80,4 +80,9 @@ print("\n\n각자리 숫자의 총합은",total," 입니다.")
 
 """
 print(sum(map(int, input("숫자를 입력하세요 : "))))
-"""
+#"""
+
+
+a = list()
+a = list(map(int, input()))
+print(a)
