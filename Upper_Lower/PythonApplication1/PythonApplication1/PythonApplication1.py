@@ -17,3 +17,5 @@ for tm in temp:
 
 for i in range(len(temp2)):
     print(temp2[i], end='')
+
+input()
