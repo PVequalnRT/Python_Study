@@ -1,0 +1,9 @@
+[문제4] 파일 수정
+
+다음과 같은 내용을 지닌 파일 test.txt 가 있다.
+
+test.txt
+
+Life is too short
+you need java
+이 파일의 내용중 java라는 문자열을 python으로 바꾸어서 저장하시오.
