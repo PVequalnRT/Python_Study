@@ -1,2 +1,2 @@
 # Python_Study
-## 2019 Python 
+## 2019 Python Study
