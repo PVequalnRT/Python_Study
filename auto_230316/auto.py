@@ -22,7 +22,8 @@ with open('target.csv', newline='') as csvfile:
     # target = csv.reader(csvfile)
     ehd = ""
     for i in target:
-        s = 0
+        pyperclip.copy(0)
+        print("클립보드 초기화!")
         temp = []
         if(i[0] == "읍면동"):
             print("success!")
@@ -109,6 +110,7 @@ with open('target.csv', newline='') as csvfile:
 
                 while(s == 0):
                     print('복사 실패')
+                    os.system('pause >nul')
 
                 print('면적 : ',s)
 
